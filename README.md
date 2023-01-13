@@ -8,6 +8,6 @@ Sheet Link: https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/vi
 
 TRACK YOUR PROGRESS:
 
-here: https://450dsa.com/
+Here: https://450dsa.com/
 
-credits: https://github.com/AsishRaju/450-DSA
+Credits: https://github.com/AsishRaju/450-DSA
